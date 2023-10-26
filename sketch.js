@@ -11,7 +11,7 @@ let img;
 let smallPoint, largePoint;
 
 function preload() {
-  img = loadImage('img.png');
+  img = loadImage('https://github.com/chris8855/p5.js---projectSharing-gitpages/blob/gh-pages/img.png');
   image(0,0,650,400)
 }
 
