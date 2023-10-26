@@ -16,7 +16,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(650, 400);
+  createCanvas(1300, 800);
   smallPoint = 4;
   largePoint = 40;
 
