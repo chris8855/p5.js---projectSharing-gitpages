@@ -11,7 +11,7 @@ let img;
 let smallPoint, largePoint;
 
 function preload() {
-  img = loadImage('Users/chris8855/Desktop/p5_project_showcase/ Pointillism/img.png');
+  img = loadImage('img.png');
   image(0,0,650,400)
 }
 
