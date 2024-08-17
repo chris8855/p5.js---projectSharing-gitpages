@@ -12,7 +12,7 @@ let smallPoint, largePoint;
 
 function preload() {
   img = loadImage('Travel_poster.png');
-  image(0,0,650,400)
+  image(0,0,650,800)
 }
 
 function setup() {
